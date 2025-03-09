@@ -165,8 +165,40 @@ class mule_scraper:
                         ]
                         historical_team_df = pd.concat(all_dfs,ignore_index=True)
                         historical_team_df['team_name'] = df.iloc[row]['short_name']
-                        historical_team_df.to_csv(f"team_stats/{sport_name}.csv")
-
+                        historical_team_df.to_csv(f"team_stats/{df.iloc[row]['short_name']}.csv")
+            else:
+                self.get_stats_by_schudule(link="https://muhlenbergsports.com"+df.iloc[row]["schedule"],short_name=df.iloc[row]['short_name'])
+    def get_stats_by_schudule(self,link:str,short_name:str):
+        self.change_link(link)
+        temp_dict = {
+            "date":[],
+            "W/L":[],
+            "team_name":[]
+        }
+        seasons = self.parser.find("select",{"id":"sidearm-schedule-select-season"})
+        for option in seasons.find_all("option"):
+            self.change_link("https://muhlenbergsports.com"+option["value"])
+            record = self.parser.find("li",{"class":"large-flex-item-1 flex flex-column flex-justify-center flex-align-center x-small-3 columns"})
+            if record:
+                year = int(option["value"].split("/")[-1].split("-")[0])
+                overall_record = record.find_all("span",{"class":"flex-item-1"})[-1].text
+                win , loss = overall_record.split("-")
+                win , loss = int(win) , int(loss)
+                if loss != 0:
+                    for i in range(win):
+                        temp_dict["date"].append(f"01/01/{year}")
+                        temp_dict["W/L"].append("W")
+                        temp_dict["team_name"].append(short_name)
+                    for i in range(loss):
+                        temp_dict["date"].append(f"01/01/{year}")
+                        temp_dict["W/L"].append("L")
+                        temp_dict["team_name"].append(short_name)
+            else:
+                print("https://muhlenbergsports.com"+option["value"],"does not have a record!")
+        if len(temp_dict['date']) > 0:
+            df = pd.DataFrame(temp_dict)
+            df['Opponent'] = np.nan
+            df.to_csv(f"team_stats/{short_name}.csv")
     def get_player_count(self):
         df = pd.read_csv("teams.csv")
         l , w = df.shape
@@ -179,4 +211,4 @@ class mule_scraper:
         df.to_csv("teams.csv",index=False)
     
 x = mule_scraper("https://muhlenbergsports.com/index.aspx")
-x.get_player_roster()
+x.get_all_stat_pages()

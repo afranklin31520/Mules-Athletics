@@ -1,4 +1,4 @@
-,Date,Opponent,W/L,team_name
+,DATE,OPPONENT,W/L,TEAM_NAME
 0,2/25/2024,Rutgers-Newark,L,baseball
 1,2/25/2024,Rutgers-Newark,L,baseball
 2,3/3/2024,Eastern,W,baseball
@@ -1448,6 +1448,173 @@
 199,10/20/2012,vs Gettysburg,W,msoc
 200,10/24/2012,vs Dickinson,L,msoc
 201,10/27/2012,at Ursinus,W,msoc
+0,01/01/2024,,W,mten
+1,01/01/2024,,W,mten
+2,01/01/2024,,W,mten
+3,01/01/2024,,W,mten
+4,01/01/2024,,W,mten
+5,01/01/2024,,L,mten
+6,01/01/2023,,W,mten
+7,01/01/2023,,W,mten
+8,01/01/2023,,W,mten
+9,01/01/2023,,W,mten
+10,01/01/2023,,W,mten
+11,01/01/2023,,W,mten
+12,01/01/2023,,L,mten
+13,01/01/2023,,L,mten
+14,01/01/2023,,L,mten
+15,01/01/2023,,L,mten
+16,01/01/2023,,L,mten
+17,01/01/2023,,L,mten
+18,01/01/2023,,L,mten
+19,01/01/2023,,L,mten
+20,01/01/2023,,L,mten
+21,01/01/2023,,L,mten
+22,01/01/2022,,W,mten
+23,01/01/2022,,W,mten
+24,01/01/2022,,L,mten
+25,01/01/2022,,L,mten
+26,01/01/2022,,L,mten
+27,01/01/2022,,L,mten
+28,01/01/2022,,L,mten
+29,01/01/2022,,L,mten
+30,01/01/2022,,L,mten
+31,01/01/2022,,L,mten
+32,01/01/2022,,L,mten
+33,01/01/2022,,L,mten
+34,01/01/2021,,W,mten
+35,01/01/2021,,W,mten
+36,01/01/2021,,L,mten
+37,01/01/2021,,L,mten
+38,01/01/2021,,L,mten
+39,01/01/2021,,L,mten
+40,01/01/2021,,L,mten
+41,01/01/2021,,L,mten
+42,01/01/2021,,L,mten
+43,01/01/2021,,L,mten
+44,01/01/2021,,L,mten
+45,01/01/2021,,L,mten
+46,01/01/2021,,W,mten
+47,01/01/2021,,W,mten
+48,01/01/2021,,W,mten
+49,01/01/2021,,W,mten
+50,01/01/2021,,L,mten
+51,01/01/2021,,L,mten
+52,01/01/2021,,L,mten
+53,01/01/2021,,L,mten
+54,01/01/2019,,W,mten
+55,01/01/2019,,W,mten
+56,01/01/2019,,W,mten
+57,01/01/2019,,W,mten
+58,01/01/2019,,W,mten
+59,01/01/2019,,L,mten
+60,01/01/2019,,L,mten
+61,01/01/2019,,L,mten
+62,01/01/2019,,L,mten
+63,01/01/2018,,W,mten
+64,01/01/2018,,W,mten
+65,01/01/2018,,W,mten
+66,01/01/2018,,W,mten
+67,01/01/2018,,W,mten
+68,01/01/2018,,W,mten
+69,01/01/2018,,L,mten
+70,01/01/2018,,L,mten
+71,01/01/2018,,L,mten
+72,01/01/2018,,L,mten
+73,01/01/2018,,L,mten
+74,01/01/2018,,L,mten
+75,01/01/2018,,L,mten
+76,01/01/2018,,L,mten
+77,01/01/2018,,L,mten
+78,01/01/2017,,W,mten
+79,01/01/2017,,W,mten
+80,01/01/2017,,W,mten
+81,01/01/2017,,W,mten
+82,01/01/2017,,L,mten
+83,01/01/2017,,L,mten
+84,01/01/2017,,L,mten
+85,01/01/2017,,L,mten
+86,01/01/2017,,L,mten
+87,01/01/2017,,L,mten
+88,01/01/2017,,L,mten
+89,01/01/2017,,L,mten
+90,01/01/2017,,L,mten
+91,01/01/2017,,L,mten
+92,01/01/2017,,L,mten
+93,01/01/2017,,L,mten
+94,01/01/2017,,L,mten
+95,01/01/2017,,L,mten
+96,01/01/2016,,W,mten
+97,01/01/2016,,W,mten
+98,01/01/2016,,W,mten
+99,01/01/2016,,W,mten
+100,01/01/2016,,L,mten
+101,01/01/2016,,L,mten
+102,01/01/2016,,L,mten
+103,01/01/2016,,L,mten
+104,01/01/2016,,L,mten
+105,01/01/2016,,L,mten
+106,01/01/2016,,L,mten
+107,01/01/2016,,L,mten
+108,01/01/2016,,L,mten
+109,01/01/2016,,L,mten
+110,01/01/2016,,L,mten
+111,01/01/2015,,W,mten
+112,01/01/2015,,W,mten
+113,01/01/2015,,W,mten
+114,01/01/2015,,L,mten
+115,01/01/2015,,L,mten
+116,01/01/2015,,L,mten
+117,01/01/2015,,L,mten
+118,01/01/2015,,L,mten
+119,01/01/2015,,L,mten
+120,01/01/2015,,L,mten
+121,01/01/2015,,L,mten
+122,01/01/2015,,L,mten
+123,01/01/2015,,L,mten
+124,01/01/2015,,L,mten
+125,01/01/2015,,L,mten
+126,01/01/2014,,W,mten
+127,01/01/2014,,W,mten
+128,01/01/2014,,W,mten
+129,01/01/2014,,L,mten
+130,01/01/2014,,L,mten
+131,01/01/2014,,L,mten
+132,01/01/2014,,L,mten
+133,01/01/2014,,L,mten
+134,01/01/2014,,L,mten
+135,01/01/2014,,L,mten
+136,01/01/2014,,L,mten
+137,01/01/2014,,L,mten
+138,01/01/2014,,L,mten
+139,01/01/2013,,W,mten
+140,01/01/2013,,W,mten
+141,01/01/2013,,W,mten
+142,01/01/2013,,L,mten
+143,01/01/2013,,L,mten
+144,01/01/2013,,L,mten
+145,01/01/2013,,L,mten
+146,01/01/2013,,L,mten
+147,01/01/2013,,L,mten
+148,01/01/2013,,L,mten
+149,01/01/2013,,L,mten
+150,01/01/2013,,L,mten
+151,01/01/2013,,L,mten
+152,01/01/2013,,L,mten
+153,01/01/2012,,W,mten
+154,01/01/2012,,W,mten
+155,01/01/2012,,W,mten
+156,01/01/2012,,W,mten
+157,01/01/2012,,L,mten
+158,01/01/2012,,L,mten
+159,01/01/2012,,L,mten
+160,01/01/2012,,L,mten
+161,01/01/2012,,L,mten
+162,01/01/2012,,L,mten
+163,01/01/2012,,L,mten
+164,01/01/2012,,L,mten
+165,01/01/2012,,L,mten
+166,01/01/2012,,L,mten
 0,2/27/2024,Kean,L,softball
 1,3/1/2024,Stockton,L,softball
 2,3/1/2024,Stockton,W,softball
@@ -1877,6 +2044,337 @@
 426,5/4/2013,Washington College,L,softball
 427,5/5/2013,Haverford,L,softball
 428,Total,,,softball
+0,9/01/2023,vs Marymount (Va.),W,volleyball
+1,9/02/2023,at Mary Washington,L,volleyball
+2,9/06/2023,Stockton,W,volleyball
+3,9/08/2023,Bard,W,volleyball
+4,9/08/2023,Bluffton,W,volleyball
+5,9/09/2023,Lebanon Valley,W,volleyball
+6,9/09/2023,Eastern,L,volleyball
+7,9/12/2023,Cedar Crest,W,volleyball
+8,9/15/2023,vs Kean,W,volleyball
+9,9/15/2023,vs Stevenson,L,volleyball
+10,9/16/2023,at Arcadia,W,volleyball
+11,9/19/2023,at Drew,W,volleyball
+12,9/23/2023,at Juniata,L,volleyball
+13,9/23/2023,vs John Carroll,W,volleyball
+14,9/29/2023,Gettysburg,L,volleyball
+15,10/04/2023,at Ursinus,L,volleyball
+16,10/07/2023,at Johns Hopkins,L,volleyball
+17,10/11/2023,Bryn Mawr,W,volleyball
+18,10/14/2023,at Franklin & Marshall,L,volleyball
+19,10/17/2023,Swarthmore,L,volleyball
+20,10/21/2023,McDaniel,W,volleyball
+21,10/28/2023,Washington College,W,volleyball
+22,11/01/2023,at Haverford,L,volleyball
+23,11/04/2023,at Dickinson,W,volleyball
+24,11/08/2023,at Franklin & Marshall,L,volleyball
+25,,Muhlenberg,,volleyball
+26,,Opponents,,volleyball
+27,9/03/2022,vs Nazareth,W,volleyball
+28,9/03/2022,at Scranton,L,volleyball
+29,9/06/2022,at Rowan,L,volleyball
+30,9/10/2022,vs Merchant Marine,W,volleyball
+31,9/10/2022,at Vassar,W,volleyball
+32,9/13/2022,Hunter,W,volleyball
+33,9/14/2022,Moravian,W,volleyball
+34,9/17/2022,at Salisbury,L,volleyball
+35,9/17/2022,vs Va. Wesleyan,L,volleyball
+36,9/20/2022,Marywood,W,volleyball
+37,9/22/2022,at Penn St.-Berks,W,volleyball
+38,9/24/2022,Dickinson,L,volleyball
+39,9/24/2022,Stevenson,L,volleyball
+40,9/27/2022,at Swarthmore,L,volleyball
+41,10/01/2022,at McDaniel,W,volleyball
+42,10/05/2022,Ursinus,W,volleyball
+43,10/08/2022,Gettysburg,L,volleyball
+44,10/08/2022,DeSales,W,volleyball
+45,10/12/2022,at Haverford,W,volleyball
+46,10/15/2022,at Johns Hopkins,L,volleyball
+47,10/15/2022,vs Eastern,L,volleyball
+48,10/19/2022,at Bryn Mawr,W,volleyball
+49,10/22/2022,Washington College,W,volleyball
+50,10/26/2022,Franklin & Marshall,L,volleyball
+51,10/29/2022,at Arcadia,L,volleyball
+52,11/02/2022,at Franklin & Marshall,L,volleyball
+53,,Muhlenberg,,volleyball
+54,,Opponents,,volleyball
+55,9/03/2021,at Ramapo,W,volleyball
+56,9/04/2021,vs Hunter,W,volleyball
+57,9/04/2021,at Stevens,L,volleyball
+58,9/07/2021,at Cabrini,L,volleyball
+59,9/10/2021,Cedar Crest,W,volleyball
+60,9/10/2021,Gallaudet,W,volleyball
+61,9/11/2021,Penn St.-Abington,W,volleyball
+62,9/11/2021,Neumann,L,volleyball
+63,9/15/2021,at Scranton,L,volleyball
+64,9/18/2021,Rutgers-Newark,W,volleyball
+65,9/25/2021,at Dickinson,L,volleyball
+66,9/28/2021,Swarthmore,L,volleyball
+67,9/30/2021,at Moravian,L,volleyball
+68,10/02/2021,McDaniel,W,volleyball
+69,10/02/2021,DeSales,W,volleyball
+70,10/06/2021,at Ursinus,W,volleyball
+71,10/09/2021,at Gettysburg,L,volleyball
+72,10/13/2021,Haverford,L,volleyball
+73,10/16/2021,Johns Hopkins,L,volleyball
+74,10/16/2021,Clarkson,L,volleyball
+75,10/19/2021,Bryn Mawr,W,volleyball
+76,10/23/2021,at Washington College,L,volleyball
+77,10/27/2021,at Franklin & Marshall,L,volleyball
+78,10/30/2021,Lebanon Valley,W,volleyball
+79,,Muhlenberg,,volleyball
+80,,Opponents,,volleyball
+81,8/30/2019,vs Clark University,W,volleyball
+82,8/31/2019,vs Susquehanna,L,volleyball
+83,8/31/2019,at Salisbury,L,volleyball
+84,8/31/2019,at Thiel,L,volleyball
+85,9/07/2019,at Vassar,L,volleyball
+86,9/07/2019,vs Morrisville State,L,volleyball
+87,9/13/2019,Mount St. Vincent,W,volleyball
+88,9/13/2019,Eastern,W,volleyball
+89,9/14/2019,Stockton,L,volleyball
+90,9/14/2019,PSU Abington,W,volleyball
+91,9/17/2019,Moravian,W,volleyball
+92,9/21/2019,vs Franklin & Marshall,L,volleyball
+93,9/25/2019,at Haverford,L,volleyball
+94,9/28/2019,Dickinson,W,volleyball
+95,9/28/2019,DeSales,L,volleyball
+96,10/02/2019,Scranton,L,volleyball
+97,10/10/2019,Bryn Mawr,W,volleyball
+98,10/12/2019,at Johns Hopkins,L,volleyball
+99,10/12/2019,vs Mary Washington,W,volleyball
+100,10/16/2019,Ursinus,W,volleyball
+101,10/19/2019,Gettysburg,L,volleyball
+102,10/22/2019,PSU Berks,W,volleyball
+103,10/25/2019,at McDaniel,L,volleyball
+104,10/30/2019,at Swarthmore,L,volleyball
+105,11/02/2019,Washington,W,volleyball
+106,,Muhlenberg,,volleyball
+107,,Opponents,,volleyball
+108,8/31/2018,vs Susquehanna,W,volleyball
+109,8/31/2018,at Chris. Newport,W,volleyball
+110,9/01/2018,vs Stevenson,W,volleyball
+111,9/01/2018,vs Mary Washington,L,volleyball
+112,9/05/2018,at Scranton,W,volleyball
+113,9/07/2018,FDU-Florham,W,volleyball
+114,9/07/2018,Stevenson,W,volleyball
+115,9/08/2018,Stockton,W,volleyball
+116,9/08/2018,Neumann,W,volleyball
+117,9/14/2018,Carnegie Mellon,L,volleyball
+118,9/15/2018,Franklin & Marshall,L,volleyball
+119,9/15/2018,SUNY Cortland,W,volleyball
+120,9/19/2018,Haverford,W,volleyball
+121,9/22/2018,at Dickinson,W,volleyball
+122,9/28/2018,at St. Thomas,L,volleyball
+123,9/29/2018,vs St. Olaf,W,volleyball
+124,9/29/2018,at Bethel,L,volleyball
+125,10/03/2018,at Bryn Mawr,W,volleyball
+126,10/06/2018,Johns Hopkins,L,volleyball
+127,10/10/2018,at Ursinus,W,volleyball
+128,10/13/2018,at Gettysburg,W,volleyball
+129,10/16/2018,at Kean,W,volleyball
+130,10/18/2018,at Moravian,W,volleyball
+131,10/20/2018,McDaniel,L,volleyball
+132,10/20/2018,DeSales,W,volleyball
+133,10/24/2018,Swarthmore,W,volleyball
+134,10/27/2018,at Washington College,W,volleyball
+135,10/31/2018,at McDaniel,L,volleyball
+136,,Muhlenberg,,volleyball
+137,,Opponents,,volleyball
+138,9/01/2017,vs Penn State Altoona,W,volleyball
+139,9/01/2017,vs Hood,W,volleyball
+140,9/02/2017,vs St. Mary's (Md.),W,volleyball
+141,9/02/2017,vs Bethany (W.Va.),W,volleyball
+142,9/06/2017,at FDU-Florham,W,volleyball
+143,9/08/2017,SUNY Cortland,W,volleyball
+144,9/08/2017,Stevenson,L,volleyball
+145,9/09/2017,Virginia Wesleyan,W,volleyball
+146,9/09/2017,Cabrini,L,volleyball
+147,9/13/2017,Moravian,W,volleyball
+148,9/16/2017,Stockton,W,volleyball
+149,9/16/2017,Scranton,W,volleyball
+150,9/20/2017,at Haverford,W,volleyball
+151,9/23/2017,Dickinson,W,volleyball
+152,9/23/2017,DeSales,W,volleyball
+153,9/26/2017,at Susquehanna,W,volleyball
+154,9/29/2017,at Ramapo,W,volleyball
+155,9/30/2017,vs Lebanon Valley,W,volleyball
+156,9/30/2017,vs Union,W,volleyball
+157,10/04/2017,Bryn Mawr,W,volleyball
+158,10/07/2017,at Johns Hopkins,L,volleyball
+159,10/11/2017,Ursinus,W,volleyball
+160,10/14/2017,Gettysburg,W,volleyball
+161,10/14/2017,Clarkson,L,volleyball
+162,10/18/2017,at Franklin & Marshall,W,volleyball
+163,10/21/2017,at McDaniel,W,volleyball
+164,10/21/2017,vs Lancaster Bible,W,volleyball
+165,10/25/2017,at Swarthmore,L,volleyball
+166,10/28/2017,Washington College,W,volleyball
+167,11/04/2017,vs Swarthmore,L,volleyball
+168,,Muhlenberg,,volleyball
+169,,Opponents,,volleyball
+170,9/02/2016,vs Eastern,L,volleyball
+171,9/02/2016,vs Emmanuel,W,volleyball
+172,9/03/2016,at Rowan,W,volleyball
+173,9/03/2016,vs Widener,W,volleyball
+174,9/09/2016,Cabrini,W,volleyball
+175,9/09/2016,Marymount,W,volleyball
+176,9/10/2016,Scranton,L,volleyball
+177,9/10/2016,Ithaca,L,volleyball
+178,9/14/2016,at Moravian,W,volleyball
+179,9/17/2016,McDaniel,W,volleyball
+180,9/17/2016,Kean,W,volleyball
+181,9/20/2016,at Elizabethtown,W,volleyball
+182,9/23/2016,at Johns Hopkins,L,volleyball
+183,9/28/2016,Dickinson,W,volleyball
+184,10/01/2016,at Washington College,W,volleyball
+185,10/05/2016,at Bryn Mawr,W,volleyball
+186,10/07/2016,vs Whittier,L,volleyball
+187,10/07/2016,vs Lynchburg,W,volleyball
+188,10/08/2016,vs UC Santa Cruz,L,volleyball
+189,10/08/2016,at La Verne,L,volleyball
+190,10/12/2016,Haverford,L,volleyball
+191,10/15/2016,Franklin & Marshall,W,volleyball
+192,10/15/2016,UNION,W,volleyball
+193,10/19/2016,at Swarthmore,L,volleyball
+194,10/22/2016,at Gettysburg,W,volleyball
+195,10/22/2016,vs Hood,W,volleyball
+196,10/26/2016,Ursinus,W,volleyball
+197,10/29/2016,Lycoming,W,volleyball
+198,10/29/2016,at Eastern,L,volleyball
+199,11/02/2016,Franklin & Marshall,W,volleyball
+200,11/05/2016,at Johns Hopkins,L,volleyball
+201,,Muhlenberg,,volleyball
+202,,Opponents,,volleyball
+203,9/01/2015,Eastern,L,volleyball
+204,9/04/2015,vs Alvernia,W,volleyball
+205,9/04/2015,vs Stevens Institute,L,volleyball
+206,9/05/2015,vs Carroll,W,volleyball
+207,9/05/2015,at Moravian,W,volleyball
+208,9/11/2015,Moravian,W,volleyball
+209,9/11/2015,Rowan,W,volleyball
+210,9/12/2015,Salisbury,L,volleyball
+211,9/12/2015,Neumann,W,volleyball
+212,9/16/2015,at McDaniel,W,volleyball
+213,9/19/2015,Alvernia,W,volleyball
+214,9/19/2015,Hunter,W,volleyball
+215,9/23/2015,at Franklin & Marshall,L,volleyball
+216,9/26/2015,Johns Hopkins,L,volleyball
+217,9/26/2015,Stockton,W,volleyball
+218,9/30/2015,at Dickinson,W,volleyball
+219,10/03/2015,Washington,W,volleyball
+220,10/07/2015,Bryn Mawr,W,volleyball
+221,10/10/2015,vs SUNY Canton,W,volleyball
+222,10/11/2015,at Clarkson,L,volleyball
+223,10/11/2015,vs Susquehanna,L,volleyball
+224,10/14/2015,at Haverford,L,volleyball
+225,10/21/2015,Swarthmore,L,volleyball
+226,10/24/2015,Gettysburg,W,volleyball
+227,10/24/2015,Baruch,W,volleyball
+228,10/28/2015,at Ursinus,W,volleyball
+229,10/31/2015,Cabrini,W,volleyball
+230,10/31/2015,Misericordia,W,volleyball
+231,,Muhlenberg,,volleyball
+232,,Opponents,,volleyball
+233,8/29/2014,vs Alfred,W,volleyball
+234,8/29/2014,vs Salve Regina,W,volleyball
+235,8/30/2014,vs Gallaudet,W,volleyball
+236,8/30/2014,vs Carnegie Mellon,L,volleyball
+237,9/05/2014,FDU-Florham,W,volleyball
+238,9/05/2014,Rutgers-Camden,W,volleyball
+239,9/06/2014,Shenandoah,W,volleyball
+240,9/06/2014,Allegheny,W,volleyball
+241,9/12/2014,vs Eastern,L,volleyball
+242,9/12/2014,at Neumann,W,volleyball
+243,9/13/2014,vs Moravian,W,volleyball
+244,9/13/2014,vs Widener,W,volleyball
+245,9/17/2014,Franklin & Marshall,W,volleyball
+246,9/20/2014,McDaniel,W,volleyball
+247,9/20/2014,Cedar Crest,W,volleyball
+248,9/25/2014,Scranton,W,volleyball
+249,9/27/2014,at Johns Hopkins,W,volleyball
+250,10/01/2014,at Moravian,W,volleyball
+251,10/04/2014,Dickinson,W,volleyball
+252,10/08/2014,at Bryn Mawr,W,volleyball
+253,10/11/2014,at Washington College,W,volleyball
+254,10/11/2014,vs Lancaster Bible,W,volleyball
+255,10/16/2014,Haverford,L,volleyball
+256,10/18/2014,vs Marymount (Va.),W,volleyball
+257,10/18/2014,at York (Pa.),W,volleyball
+258,10/22/2014,at Swarthmore,L,volleyball
+259,10/25/2014,at Gettysburg,W,volleyball
+260,10/25/2014,vs Messiah,L,volleyball
+261,10/29/2014,Ursinus,W,volleyball
+262,11/01/2014,at Stevenson,L,volleyball
+263,11/01/2014,at Lynchburg,L,volleyball
+264,11/08/2014,vs Swarthmore,W,volleyball
+265,11/09/2014,vs Franklin & Marshall,L,volleyball
+266,,Muhlenberg,,volleyball
+267,,Opponents,,volleyball
+268,8/30/2013,vs Cabrini College,L,volleyball
+269,8/30/2013,at DeSales University,L,volleyball
+270,8/31/2013,vs Albright,W,volleyball
+271,8/31/2013,vs Ithaca,W,volleyball
+272,9/06/2013,Penn State Abington,W,volleyball
+273,9/06/2013,Neumann,W,volleyball
+274,9/07/2013,Gallaudet,L,volleyball
+275,9/07/2013,Salisbury,L,volleyball
+276,9/14/2013,at McDaniel,W,volleyball
+277,9/14/2013,vs Goucher,W,volleyball
+278,9/21/2013,Johns Hopkins,L,volleyball
+279,9/24/2013,at Scranton,W,volleyball
+280,9/28/2013,at Dickinson,W,volleyball
+281,10/02/2013,Bryn Mawr,W,volleyball
+282,10/05/2013,Washington College,W,volleyball
+283,10/05/2013,Hood,W,volleyball
+284,10/09/2013,at Haverford,W,volleyball
+285,10/12/2013,vs Birmingham Southern,L,volleyball
+286,10/12/2013,vs Rust,W,volleyball
+287,10/13/2013,vs Millsaps,W,volleyball
+288,10/13/2013,at Rhodes,L,volleyball
+289,10/16/2013,Penn State Berks,W,volleyball
+290,10/19/2013,Gettysburg,W,volleyball
+291,10/19/2013,St. Lawrence,L,volleyball
+292,10/23/2013,at Ursinus,W,volleyball
+293,10/26/2013,vs Penn State Altoona,W,volleyball
+294,10/30/2013,at Franklin & Marshall,L,volleyball
+295,11/02/2013,Swarthmore,W,volleyball
+296,11/02/2013,Moravian,L,volleyball
+297,11/09/2013,vs McDaniel,W,volleyball
+298,11/10/2013,vs Johns Hopkins,L,volleyball
+299,,Muhlenberg,,volleyball
+300,,Opponents,,volleyball
+301,8/31/2012,vs Wilkes,W,volleyball
+302,8/31/2012,vs King's,W,volleyball
+303,9/01/2012,vs Wesley,W,volleyball
+304,9/01/2012,at Moravian,L,volleyball
+305,9/05/2012,DeSales,W,volleyball
+306,9/07/2012,Centenary (N.J.),W,volleyball
+307,9/07/2012,King's,W,volleyball
+308,9/08/2012,Elizabethtown,L,volleyball
+309,9/08/2012,Salisbury,L,volleyball
+310,9/15/2012,at McDaniel,W,volleyball
+311,9/15/2012,vs Goucher,W,volleyball
+312,9/19/2012,at Haverford,L,volleyball
+313,9/21/2012,Johns Hopkins,L,volleyball
+314,9/29/2012,at Dickinson,L,volleyball
+315,10/03/2012,Bryn Mawr,W,volleyball
+316,10/04/2012,at FDU-Florham,W,volleyball
+317,10/06/2012,Washington College,W,volleyball
+318,10/06/2012,Cedar Crest,W,volleyball
+319,10/10/2012,at F&M,L,volleyball
+320,10/12/2012,at Kean,L,volleyball
+321,10/12/2012,vs Alvernia,W,volleyball
+322,10/13/2012,vs NYU-Poly,W,volleyball
+323,10/13/2012,vs Manhattanville,W,volleyball
+324,10/17/2012,Swarthmore,L,volleyball
+325,10/20/2012,Gettysburg,L,volleyball
+326,10/20/2012,York (Pa.),W,volleyball
+327,10/24/2012,at Moravian,L,volleyball
+328,10/27/2012,at Ursinus,W,volleyball
+329,,Muhlenberg,,volleyball
+330,,Opponents,,volleyball
 0,11/08/23,vs Moravian,W,wbball
 1,11/11/23,vs Hartwick,W,wbball
 2,11/14/23,vs DeSales,W,wbball
@@ -2385,6 +2883,218 @@
 193,4/27/13,Ursinus,W,wlax
 194,,Muhlenberg,,wlax
 195,,Opponents,,wlax
+0,01/01/2024,,W,wrestling
+1,01/01/2024,,W,wrestling
+2,01/01/2024,,W,wrestling
+3,01/01/2024,,W,wrestling
+4,01/01/2024,,W,wrestling
+5,01/01/2024,,W,wrestling
+6,01/01/2024,,W,wrestling
+7,01/01/2024,,W,wrestling
+8,01/01/2024,,L,wrestling
+9,01/01/2024,,L,wrestling
+10,01/01/2024,,L,wrestling
+11,01/01/2024,,L,wrestling
+12,01/01/2024,,L,wrestling
+13,01/01/2024,,L,wrestling
+14,01/01/2024,,L,wrestling
+15,01/01/2024,,L,wrestling
+16,01/01/2024,,L,wrestling
+17,01/01/2024,,L,wrestling
+18,01/01/2024,,L,wrestling
+19,01/01/2023,,W,wrestling
+20,01/01/2023,,W,wrestling
+21,01/01/2023,,W,wrestling
+22,01/01/2023,,W,wrestling
+23,01/01/2023,,W,wrestling
+24,01/01/2023,,W,wrestling
+25,01/01/2023,,W,wrestling
+26,01/01/2023,,W,wrestling
+27,01/01/2023,,W,wrestling
+28,01/01/2023,,L,wrestling
+29,01/01/2023,,L,wrestling
+30,01/01/2023,,L,wrestling
+31,01/01/2022,,W,wrestling
+32,01/01/2022,,W,wrestling
+33,01/01/2022,,W,wrestling
+34,01/01/2022,,W,wrestling
+35,01/01/2022,,W,wrestling
+36,01/01/2022,,W,wrestling
+37,01/01/2022,,W,wrestling
+38,01/01/2022,,W,wrestling
+39,01/01/2022,,W,wrestling
+40,01/01/2022,,W,wrestling
+41,01/01/2022,,W,wrestling
+42,01/01/2022,,W,wrestling
+43,01/01/2022,,W,wrestling
+44,01/01/2022,,L,wrestling
+45,01/01/2022,,L,wrestling
+46,01/01/2022,,L,wrestling
+47,01/01/2022,,L,wrestling
+48,01/01/2022,,L,wrestling
+49,01/01/2022,,L,wrestling
+50,01/01/2022,,L,wrestling
+51,01/01/2022,,L,wrestling
+52,01/01/2022,,L,wrestling
+53,01/01/2022,,L,wrestling
+54,01/01/2022,,L,wrestling
+55,01/01/2021,,W,wrestling
+56,01/01/2021,,W,wrestling
+57,01/01/2021,,W,wrestling
+58,01/01/2021,,W,wrestling
+59,01/01/2021,,W,wrestling
+60,01/01/2021,,W,wrestling
+61,01/01/2021,,W,wrestling
+62,01/01/2021,,W,wrestling
+63,01/01/2021,,W,wrestling
+64,01/01/2021,,W,wrestling
+65,01/01/2021,,W,wrestling
+66,01/01/2021,,W,wrestling
+67,01/01/2021,,L,wrestling
+68,01/01/2021,,L,wrestling
+69,01/01/2021,,L,wrestling
+70,01/01/2021,,L,wrestling
+71,01/01/2021,,L,wrestling
+72,01/01/2021,,L,wrestling
+73,01/01/2021,,L,wrestling
+74,01/01/2021,,L,wrestling
+75,01/01/2019,,W,wrestling
+76,01/01/2019,,W,wrestling
+77,01/01/2019,,W,wrestling
+78,01/01/2019,,W,wrestling
+79,01/01/2019,,W,wrestling
+80,01/01/2019,,W,wrestling
+81,01/01/2019,,W,wrestling
+82,01/01/2019,,W,wrestling
+83,01/01/2019,,W,wrestling
+84,01/01/2019,,W,wrestling
+85,01/01/2019,,W,wrestling
+86,01/01/2019,,W,wrestling
+87,01/01/2019,,W,wrestling
+88,01/01/2019,,W,wrestling
+89,01/01/2019,,W,wrestling
+90,01/01/2019,,W,wrestling
+91,01/01/2019,,W,wrestling
+92,01/01/2019,,W,wrestling
+93,01/01/2019,,L,wrestling
+94,01/01/2019,,L,wrestling
+95,01/01/2019,,L,wrestling
+96,01/01/2019,,L,wrestling
+97,01/01/2018,,W,wrestling
+98,01/01/2018,,W,wrestling
+99,01/01/2018,,W,wrestling
+100,01/01/2018,,W,wrestling
+101,01/01/2018,,W,wrestling
+102,01/01/2018,,W,wrestling
+103,01/01/2018,,W,wrestling
+104,01/01/2018,,W,wrestling
+105,01/01/2018,,W,wrestling
+106,01/01/2018,,W,wrestling
+107,01/01/2018,,W,wrestling
+108,01/01/2018,,W,wrestling
+109,01/01/2018,,W,wrestling
+110,01/01/2018,,W,wrestling
+111,01/01/2018,,W,wrestling
+112,01/01/2018,,W,wrestling
+113,01/01/2018,,W,wrestling
+114,01/01/2018,,W,wrestling
+115,01/01/2018,,L,wrestling
+116,01/01/2018,,L,wrestling
+117,01/01/2018,,L,wrestling
+118,01/01/2018,,L,wrestling
+119,01/01/2018,,L,wrestling
+120,01/01/2018,,L,wrestling
+121,01/01/2018,,L,wrestling
+122,01/01/2017,,W,wrestling
+123,01/01/2017,,W,wrestling
+124,01/01/2017,,W,wrestling
+125,01/01/2017,,W,wrestling
+126,01/01/2017,,W,wrestling
+127,01/01/2017,,W,wrestling
+128,01/01/2017,,W,wrestling
+129,01/01/2017,,L,wrestling
+130,01/01/2017,,L,wrestling
+131,01/01/2017,,L,wrestling
+132,01/01/2017,,L,wrestling
+133,01/01/2017,,L,wrestling
+134,01/01/2017,,L,wrestling
+135,01/01/2017,,L,wrestling
+136,01/01/2017,,L,wrestling
+137,01/01/2017,,L,wrestling
+138,01/01/2016,,W,wrestling
+139,01/01/2016,,W,wrestling
+140,01/01/2016,,W,wrestling
+141,01/01/2016,,W,wrestling
+142,01/01/2016,,W,wrestling
+143,01/01/2016,,W,wrestling
+144,01/01/2016,,W,wrestling
+145,01/01/2016,,W,wrestling
+146,01/01/2016,,W,wrestling
+147,01/01/2016,,W,wrestling
+148,01/01/2016,,L,wrestling
+149,01/01/2016,,L,wrestling
+150,01/01/2016,,L,wrestling
+151,01/01/2016,,L,wrestling
+152,01/01/2016,,L,wrestling
+153,01/01/2016,,L,wrestling
+154,01/01/2016,,L,wrestling
+155,01/01/2016,,L,wrestling
+156,01/01/2016,,L,wrestling
+157,01/01/2016,,L,wrestling
+158,01/01/2016,,L,wrestling
+159,01/01/2015,,W,wrestling
+160,01/01/2015,,W,wrestling
+161,01/01/2015,,W,wrestling
+162,01/01/2015,,W,wrestling
+163,01/01/2015,,L,wrestling
+164,01/01/2015,,L,wrestling
+165,01/01/2015,,L,wrestling
+166,01/01/2015,,L,wrestling
+167,01/01/2015,,L,wrestling
+168,01/01/2015,,L,wrestling
+169,01/01/2015,,L,wrestling
+170,01/01/2015,,L,wrestling
+171,01/01/2015,,L,wrestling
+172,01/01/2015,,L,wrestling
+173,01/01/2015,,L,wrestling
+174,01/01/2014,,W,wrestling
+175,01/01/2014,,W,wrestling
+176,01/01/2014,,W,wrestling
+177,01/01/2014,,W,wrestling
+178,01/01/2014,,L,wrestling
+179,01/01/2014,,L,wrestling
+180,01/01/2014,,L,wrestling
+181,01/01/2014,,L,wrestling
+182,01/01/2014,,L,wrestling
+183,01/01/2014,,L,wrestling
+184,01/01/2014,,L,wrestling
+185,01/01/2014,,L,wrestling
+186,01/01/2014,,L,wrestling
+187,01/01/2013,,W,wrestling
+188,01/01/2013,,L,wrestling
+189,01/01/2013,,L,wrestling
+190,01/01/2013,,L,wrestling
+191,01/01/2013,,L,wrestling
+192,01/01/2013,,L,wrestling
+193,01/01/2013,,L,wrestling
+194,01/01/2013,,L,wrestling
+195,01/01/2013,,L,wrestling
+196,01/01/2013,,L,wrestling
+197,01/01/2013,,L,wrestling
+198,01/01/2013,,L,wrestling
+199,01/01/2013,,L,wrestling
+200,01/01/2013,,L,wrestling
+201,01/01/2012,,L,wrestling
+202,01/01/2012,,L,wrestling
+203,01/01/2012,,L,wrestling
+204,01/01/2012,,L,wrestling
+205,01/01/2012,,L,wrestling
+206,01/01/2012,,L,wrestling
+207,01/01/2012,,L,wrestling
+208,01/01/2012,,L,wrestling
+209,01/01/2012,,L,wrestling
+210,01/01/2012,,L,wrestling
+211,01/01/2012,,L,wrestling
 0,9/1/2023,vs Elizabethtown,W,wsoc
 1,9/2/2023,at Rowan,L,wsoc
 2,9/6/2023,vs Moravian,T,wsoc
@@ -2581,334 +3291,181 @@
 193,10/23/2012,vs Moravian,L,wsoc
 194,10/27/2012,at Ursinus,W,wsoc
 195,11/1/2012,vs Swarthmore,L,wsoc
-0,9/01/2023,vs Marymount (Va.),W,volleyball
-1,9/02/2023,at Mary Washington,L,volleyball
-2,9/06/2023,Stockton,W,volleyball
-3,9/08/2023,Bard,W,volleyball
-4,9/08/2023,Bluffton,W,volleyball
-5,9/09/2023,Lebanon Valley,W,volleyball
-6,9/09/2023,Eastern,L,volleyball
-7,9/12/2023,Cedar Crest,W,volleyball
-8,9/15/2023,vs Kean,W,volleyball
-9,9/15/2023,vs Stevenson,L,volleyball
-10,9/16/2023,at Arcadia,W,volleyball
-11,9/19/2023,at Drew,W,volleyball
-12,9/23/2023,at Juniata,L,volleyball
-13,9/23/2023,vs John Carroll,W,volleyball
-14,9/29/2023,Gettysburg,L,volleyball
-15,10/04/2023,at Ursinus,L,volleyball
-16,10/07/2023,at Johns Hopkins,L,volleyball
-17,10/11/2023,Bryn Mawr,W,volleyball
-18,10/14/2023,at Franklin & Marshall,L,volleyball
-19,10/17/2023,Swarthmore,L,volleyball
-20,10/21/2023,McDaniel,W,volleyball
-21,10/28/2023,Washington College,W,volleyball
-22,11/01/2023,at Haverford,L,volleyball
-23,11/04/2023,at Dickinson,W,volleyball
-24,11/08/2023,at Franklin & Marshall,L,volleyball
-25,,Muhlenberg,,volleyball
-26,,Opponents,,volleyball
-27,9/03/2022,vs Nazareth,W,volleyball
-28,9/03/2022,at Scranton,L,volleyball
-29,9/06/2022,at Rowan,L,volleyball
-30,9/10/2022,vs Merchant Marine,W,volleyball
-31,9/10/2022,at Vassar,W,volleyball
-32,9/13/2022,Hunter,W,volleyball
-33,9/14/2022,Moravian,W,volleyball
-34,9/17/2022,at Salisbury,L,volleyball
-35,9/17/2022,vs Va. Wesleyan,L,volleyball
-36,9/20/2022,Marywood,W,volleyball
-37,9/22/2022,at Penn St.-Berks,W,volleyball
-38,9/24/2022,Dickinson,L,volleyball
-39,9/24/2022,Stevenson,L,volleyball
-40,9/27/2022,at Swarthmore,L,volleyball
-41,10/01/2022,at McDaniel,W,volleyball
-42,10/05/2022,Ursinus,W,volleyball
-43,10/08/2022,Gettysburg,L,volleyball
-44,10/08/2022,DeSales,W,volleyball
-45,10/12/2022,at Haverford,W,volleyball
-46,10/15/2022,at Johns Hopkins,L,volleyball
-47,10/15/2022,vs Eastern,L,volleyball
-48,10/19/2022,at Bryn Mawr,W,volleyball
-49,10/22/2022,Washington College,W,volleyball
-50,10/26/2022,Franklin & Marshall,L,volleyball
-51,10/29/2022,at Arcadia,L,volleyball
-52,11/02/2022,at Franklin & Marshall,L,volleyball
-53,,Muhlenberg,,volleyball
-54,,Opponents,,volleyball
-55,9/03/2021,at Ramapo,W,volleyball
-56,9/04/2021,vs Hunter,W,volleyball
-57,9/04/2021,at Stevens,L,volleyball
-58,9/07/2021,at Cabrini,L,volleyball
-59,9/10/2021,Cedar Crest,W,volleyball
-60,9/10/2021,Gallaudet,W,volleyball
-61,9/11/2021,Penn St.-Abington,W,volleyball
-62,9/11/2021,Neumann,L,volleyball
-63,9/15/2021,at Scranton,L,volleyball
-64,9/18/2021,Rutgers-Newark,W,volleyball
-65,9/25/2021,at Dickinson,L,volleyball
-66,9/28/2021,Swarthmore,L,volleyball
-67,9/30/2021,at Moravian,L,volleyball
-68,10/02/2021,McDaniel,W,volleyball
-69,10/02/2021,DeSales,W,volleyball
-70,10/06/2021,at Ursinus,W,volleyball
-71,10/09/2021,at Gettysburg,L,volleyball
-72,10/13/2021,Haverford,L,volleyball
-73,10/16/2021,Johns Hopkins,L,volleyball
-74,10/16/2021,Clarkson,L,volleyball
-75,10/19/2021,Bryn Mawr,W,volleyball
-76,10/23/2021,at Washington College,L,volleyball
-77,10/27/2021,at Franklin & Marshall,L,volleyball
-78,10/30/2021,Lebanon Valley,W,volleyball
-79,,Muhlenberg,,volleyball
-80,,Opponents,,volleyball
-81,8/30/2019,vs Clark University,W,volleyball
-82,8/31/2019,vs Susquehanna,L,volleyball
-83,8/31/2019,at Salisbury,L,volleyball
-84,8/31/2019,at Thiel,L,volleyball
-85,9/07/2019,at Vassar,L,volleyball
-86,9/07/2019,vs Morrisville State,L,volleyball
-87,9/13/2019,Mount St. Vincent,W,volleyball
-88,9/13/2019,Eastern,W,volleyball
-89,9/14/2019,Stockton,L,volleyball
-90,9/14/2019,PSU Abington,W,volleyball
-91,9/17/2019,Moravian,W,volleyball
-92,9/21/2019,vs Franklin & Marshall,L,volleyball
-93,9/25/2019,at Haverford,L,volleyball
-94,9/28/2019,Dickinson,W,volleyball
-95,9/28/2019,DeSales,L,volleyball
-96,10/02/2019,Scranton,L,volleyball
-97,10/10/2019,Bryn Mawr,W,volleyball
-98,10/12/2019,at Johns Hopkins,L,volleyball
-99,10/12/2019,vs Mary Washington,W,volleyball
-100,10/16/2019,Ursinus,W,volleyball
-101,10/19/2019,Gettysburg,L,volleyball
-102,10/22/2019,PSU Berks,W,volleyball
-103,10/25/2019,at McDaniel,L,volleyball
-104,10/30/2019,at Swarthmore,L,volleyball
-105,11/02/2019,Washington,W,volleyball
-106,,Muhlenberg,,volleyball
-107,,Opponents,,volleyball
-108,8/31/2018,vs Susquehanna,W,volleyball
-109,8/31/2018,at Chris. Newport,W,volleyball
-110,9/01/2018,vs Stevenson,W,volleyball
-111,9/01/2018,vs Mary Washington,L,volleyball
-112,9/05/2018,at Scranton,W,volleyball
-113,9/07/2018,FDU-Florham,W,volleyball
-114,9/07/2018,Stevenson,W,volleyball
-115,9/08/2018,Stockton,W,volleyball
-116,9/08/2018,Neumann,W,volleyball
-117,9/14/2018,Carnegie Mellon,L,volleyball
-118,9/15/2018,Franklin & Marshall,L,volleyball
-119,9/15/2018,SUNY Cortland,W,volleyball
-120,9/19/2018,Haverford,W,volleyball
-121,9/22/2018,at Dickinson,W,volleyball
-122,9/28/2018,at St. Thomas,L,volleyball
-123,9/29/2018,vs St. Olaf,W,volleyball
-124,9/29/2018,at Bethel,L,volleyball
-125,10/03/2018,at Bryn Mawr,W,volleyball
-126,10/06/2018,Johns Hopkins,L,volleyball
-127,10/10/2018,at Ursinus,W,volleyball
-128,10/13/2018,at Gettysburg,W,volleyball
-129,10/16/2018,at Kean,W,volleyball
-130,10/18/2018,at Moravian,W,volleyball
-131,10/20/2018,McDaniel,L,volleyball
-132,10/20/2018,DeSales,W,volleyball
-133,10/24/2018,Swarthmore,W,volleyball
-134,10/27/2018,at Washington College,W,volleyball
-135,10/31/2018,at McDaniel,L,volleyball
-136,,Muhlenberg,,volleyball
-137,,Opponents,,volleyball
-138,9/01/2017,vs Penn State Altoona,W,volleyball
-139,9/01/2017,vs Hood,W,volleyball
-140,9/02/2017,vs St. Mary's (Md.),W,volleyball
-141,9/02/2017,vs Bethany (W.Va.),W,volleyball
-142,9/06/2017,at FDU-Florham,W,volleyball
-143,9/08/2017,SUNY Cortland,W,volleyball
-144,9/08/2017,Stevenson,L,volleyball
-145,9/09/2017,Virginia Wesleyan,W,volleyball
-146,9/09/2017,Cabrini,L,volleyball
-147,9/13/2017,Moravian,W,volleyball
-148,9/16/2017,Stockton,W,volleyball
-149,9/16/2017,Scranton,W,volleyball
-150,9/20/2017,at Haverford,W,volleyball
-151,9/23/2017,Dickinson,W,volleyball
-152,9/23/2017,DeSales,W,volleyball
-153,9/26/2017,at Susquehanna,W,volleyball
-154,9/29/2017,at Ramapo,W,volleyball
-155,9/30/2017,vs Lebanon Valley,W,volleyball
-156,9/30/2017,vs Union,W,volleyball
-157,10/04/2017,Bryn Mawr,W,volleyball
-158,10/07/2017,at Johns Hopkins,L,volleyball
-159,10/11/2017,Ursinus,W,volleyball
-160,10/14/2017,Gettysburg,W,volleyball
-161,10/14/2017,Clarkson,L,volleyball
-162,10/18/2017,at Franklin & Marshall,W,volleyball
-163,10/21/2017,at McDaniel,W,volleyball
-164,10/21/2017,vs Lancaster Bible,W,volleyball
-165,10/25/2017,at Swarthmore,L,volleyball
-166,10/28/2017,Washington College,W,volleyball
-167,11/04/2017,vs Swarthmore,L,volleyball
-168,,Muhlenberg,,volleyball
-169,,Opponents,,volleyball
-170,9/02/2016,vs Eastern,L,volleyball
-171,9/02/2016,vs Emmanuel,W,volleyball
-172,9/03/2016,at Rowan,W,volleyball
-173,9/03/2016,vs Widener,W,volleyball
-174,9/09/2016,Cabrini,W,volleyball
-175,9/09/2016,Marymount,W,volleyball
-176,9/10/2016,Scranton,L,volleyball
-177,9/10/2016,Ithaca,L,volleyball
-178,9/14/2016,at Moravian,W,volleyball
-179,9/17/2016,McDaniel,W,volleyball
-180,9/17/2016,Kean,W,volleyball
-181,9/20/2016,at Elizabethtown,W,volleyball
-182,9/23/2016,at Johns Hopkins,L,volleyball
-183,9/28/2016,Dickinson,W,volleyball
-184,10/01/2016,at Washington College,W,volleyball
-185,10/05/2016,at Bryn Mawr,W,volleyball
-186,10/07/2016,vs Whittier,L,volleyball
-187,10/07/2016,vs Lynchburg,W,volleyball
-188,10/08/2016,vs UC Santa Cruz,L,volleyball
-189,10/08/2016,at La Verne,L,volleyball
-190,10/12/2016,Haverford,L,volleyball
-191,10/15/2016,Franklin & Marshall,W,volleyball
-192,10/15/2016,UNION,W,volleyball
-193,10/19/2016,at Swarthmore,L,volleyball
-194,10/22/2016,at Gettysburg,W,volleyball
-195,10/22/2016,vs Hood,W,volleyball
-196,10/26/2016,Ursinus,W,volleyball
-197,10/29/2016,Lycoming,W,volleyball
-198,10/29/2016,at Eastern,L,volleyball
-199,11/02/2016,Franklin & Marshall,W,volleyball
-200,11/05/2016,at Johns Hopkins,L,volleyball
-201,,Muhlenberg,,volleyball
-202,,Opponents,,volleyball
-203,9/01/2015,Eastern,L,volleyball
-204,9/04/2015,vs Alvernia,W,volleyball
-205,9/04/2015,vs Stevens Institute,L,volleyball
-206,9/05/2015,vs Carroll,W,volleyball
-207,9/05/2015,at Moravian,W,volleyball
-208,9/11/2015,Moravian,W,volleyball
-209,9/11/2015,Rowan,W,volleyball
-210,9/12/2015,Salisbury,L,volleyball
-211,9/12/2015,Neumann,W,volleyball
-212,9/16/2015,at McDaniel,W,volleyball
-213,9/19/2015,Alvernia,W,volleyball
-214,9/19/2015,Hunter,W,volleyball
-215,9/23/2015,at Franklin & Marshall,L,volleyball
-216,9/26/2015,Johns Hopkins,L,volleyball
-217,9/26/2015,Stockton,W,volleyball
-218,9/30/2015,at Dickinson,W,volleyball
-219,10/03/2015,Washington,W,volleyball
-220,10/07/2015,Bryn Mawr,W,volleyball
-221,10/10/2015,vs SUNY Canton,W,volleyball
-222,10/11/2015,at Clarkson,L,volleyball
-223,10/11/2015,vs Susquehanna,L,volleyball
-224,10/14/2015,at Haverford,L,volleyball
-225,10/21/2015,Swarthmore,L,volleyball
-226,10/24/2015,Gettysburg,W,volleyball
-227,10/24/2015,Baruch,W,volleyball
-228,10/28/2015,at Ursinus,W,volleyball
-229,10/31/2015,Cabrini,W,volleyball
-230,10/31/2015,Misericordia,W,volleyball
-231,,Muhlenberg,,volleyball
-232,,Opponents,,volleyball
-233,8/29/2014,vs Alfred,W,volleyball
-234,8/29/2014,vs Salve Regina,W,volleyball
-235,8/30/2014,vs Gallaudet,W,volleyball
-236,8/30/2014,vs Carnegie Mellon,L,volleyball
-237,9/05/2014,FDU-Florham,W,volleyball
-238,9/05/2014,Rutgers-Camden,W,volleyball
-239,9/06/2014,Shenandoah,W,volleyball
-240,9/06/2014,Allegheny,W,volleyball
-241,9/12/2014,vs Eastern,L,volleyball
-242,9/12/2014,at Neumann,W,volleyball
-243,9/13/2014,vs Moravian,W,volleyball
-244,9/13/2014,vs Widener,W,volleyball
-245,9/17/2014,Franklin & Marshall,W,volleyball
-246,9/20/2014,McDaniel,W,volleyball
-247,9/20/2014,Cedar Crest,W,volleyball
-248,9/25/2014,Scranton,W,volleyball
-249,9/27/2014,at Johns Hopkins,W,volleyball
-250,10/01/2014,at Moravian,W,volleyball
-251,10/04/2014,Dickinson,W,volleyball
-252,10/08/2014,at Bryn Mawr,W,volleyball
-253,10/11/2014,at Washington College,W,volleyball
-254,10/11/2014,vs Lancaster Bible,W,volleyball
-255,10/16/2014,Haverford,L,volleyball
-256,10/18/2014,vs Marymount (Va.),W,volleyball
-257,10/18/2014,at York (Pa.),W,volleyball
-258,10/22/2014,at Swarthmore,L,volleyball
-259,10/25/2014,at Gettysburg,W,volleyball
-260,10/25/2014,vs Messiah,L,volleyball
-261,10/29/2014,Ursinus,W,volleyball
-262,11/01/2014,at Stevenson,L,volleyball
-263,11/01/2014,at Lynchburg,L,volleyball
-264,11/08/2014,vs Swarthmore,W,volleyball
-265,11/09/2014,vs Franklin & Marshall,L,volleyball
-266,,Muhlenberg,,volleyball
-267,,Opponents,,volleyball
-268,8/30/2013,vs Cabrini College,L,volleyball
-269,8/30/2013,at DeSales University,L,volleyball
-270,8/31/2013,vs Albright,W,volleyball
-271,8/31/2013,vs Ithaca,W,volleyball
-272,9/06/2013,Penn State Abington,W,volleyball
-273,9/06/2013,Neumann,W,volleyball
-274,9/07/2013,Gallaudet,L,volleyball
-275,9/07/2013,Salisbury,L,volleyball
-276,9/14/2013,at McDaniel,W,volleyball
-277,9/14/2013,vs Goucher,W,volleyball
-278,9/21/2013,Johns Hopkins,L,volleyball
-279,9/24/2013,at Scranton,W,volleyball
-280,9/28/2013,at Dickinson,W,volleyball
-281,10/02/2013,Bryn Mawr,W,volleyball
-282,10/05/2013,Washington College,W,volleyball
-283,10/05/2013,Hood,W,volleyball
-284,10/09/2013,at Haverford,W,volleyball
-285,10/12/2013,vs Birmingham Southern,L,volleyball
-286,10/12/2013,vs Rust,W,volleyball
-287,10/13/2013,vs Millsaps,W,volleyball
-288,10/13/2013,at Rhodes,L,volleyball
-289,10/16/2013,Penn State Berks,W,volleyball
-290,10/19/2013,Gettysburg,W,volleyball
-291,10/19/2013,St. Lawrence,L,volleyball
-292,10/23/2013,at Ursinus,W,volleyball
-293,10/26/2013,vs Penn State Altoona,W,volleyball
-294,10/30/2013,at Franklin & Marshall,L,volleyball
-295,11/02/2013,Swarthmore,W,volleyball
-296,11/02/2013,Moravian,L,volleyball
-297,11/09/2013,vs McDaniel,W,volleyball
-298,11/10/2013,vs Johns Hopkins,L,volleyball
-299,,Muhlenberg,,volleyball
-300,,Opponents,,volleyball
-301,8/31/2012,vs Wilkes,W,volleyball
-302,8/31/2012,vs King's,W,volleyball
-303,9/01/2012,vs Wesley,W,volleyball
-304,9/01/2012,at Moravian,L,volleyball
-305,9/05/2012,DeSales,W,volleyball
-306,9/07/2012,Centenary (N.J.),W,volleyball
-307,9/07/2012,King's,W,volleyball
-308,9/08/2012,Elizabethtown,L,volleyball
-309,9/08/2012,Salisbury,L,volleyball
-310,9/15/2012,at McDaniel,W,volleyball
-311,9/15/2012,vs Goucher,W,volleyball
-312,9/19/2012,at Haverford,L,volleyball
-313,9/21/2012,Johns Hopkins,L,volleyball
-314,9/29/2012,at Dickinson,L,volleyball
-315,10/03/2012,Bryn Mawr,W,volleyball
-316,10/04/2012,at FDU-Florham,W,volleyball
-317,10/06/2012,Washington College,W,volleyball
-318,10/06/2012,Cedar Crest,W,volleyball
-319,10/10/2012,at F&M,L,volleyball
-320,10/12/2012,at Kean,L,volleyball
-321,10/12/2012,vs Alvernia,W,volleyball
-322,10/13/2012,vs NYU-Poly,W,volleyball
-323,10/13/2012,vs Manhattanville,W,volleyball
-324,10/17/2012,Swarthmore,L,volleyball
-325,10/20/2012,Gettysburg,L,volleyball
-326,10/20/2012,York (Pa.),W,volleyball
-327,10/24/2012,at Moravian,L,volleyball
-328,10/27/2012,at Ursinus,W,volleyball
-329,,Muhlenberg,,volleyball
-330,,Opponents,,volleyball
+0,01/01/2025,,L,wtennis
+1,01/01/2025,,L,wtennis
+2,01/01/2023,,W,wtennis
+3,01/01/2023,,W,wtennis
+4,01/01/2023,,W,wtennis
+5,01/01/2023,,W,wtennis
+6,01/01/2023,,W,wtennis
+7,01/01/2023,,L,wtennis
+8,01/01/2023,,L,wtennis
+9,01/01/2023,,L,wtennis
+10,01/01/2023,,L,wtennis
+11,01/01/2023,,L,wtennis
+12,01/01/2023,,L,wtennis
+13,01/01/2023,,L,wtennis
+14,01/01/2023,,L,wtennis
+15,01/01/2023,,L,wtennis
+16,01/01/2023,,L,wtennis
+17,01/01/2023,,L,wtennis
+18,01/01/2023,,L,wtennis
+19,01/01/2022,,W,wtennis
+20,01/01/2022,,W,wtennis
+21,01/01/2022,,W,wtennis
+22,01/01/2022,,L,wtennis
+23,01/01/2022,,L,wtennis
+24,01/01/2022,,L,wtennis
+25,01/01/2022,,L,wtennis
+26,01/01/2022,,L,wtennis
+27,01/01/2022,,L,wtennis
+28,01/01/2022,,L,wtennis
+29,01/01/2022,,L,wtennis
+30,01/01/2022,,L,wtennis
+31,01/01/2022,,L,wtennis
+32,01/01/2022,,L,wtennis
+33,01/01/2022,,L,wtennis
+34,01/01/2021,,W,wtennis
+35,01/01/2021,,W,wtennis
+36,01/01/2021,,W,wtennis
+37,01/01/2021,,W,wtennis
+38,01/01/2021,,W,wtennis
+39,01/01/2021,,L,wtennis
+40,01/01/2021,,L,wtennis
+41,01/01/2021,,L,wtennis
+42,01/01/2021,,L,wtennis
+43,01/01/2021,,L,wtennis
+44,01/01/2021,,L,wtennis
+45,01/01/2021,,L,wtennis
+46,01/01/2021,,L,wtennis
+47,01/01/2021,,L,wtennis
+48,01/01/2021,,L,wtennis
+49,01/01/2021,,W,wtennis
+50,01/01/2021,,L,wtennis
+51,01/01/2021,,L,wtennis
+52,01/01/2021,,L,wtennis
+53,01/01/2021,,L,wtennis
+54,01/01/2021,,L,wtennis
+55,01/01/2021,,L,wtennis
+56,01/01/2019,,W,wtennis
+57,01/01/2019,,L,wtennis
+58,01/01/2019,,L,wtennis
+59,01/01/2019,,L,wtennis
+60,01/01/2019,,L,wtennis
+61,01/01/2019,,L,wtennis
+62,01/01/2019,,L,wtennis
+63,01/01/2019,,L,wtennis
+64,01/01/2018,,W,wtennis
+65,01/01/2018,,W,wtennis
+66,01/01/2018,,L,wtennis
+67,01/01/2018,,L,wtennis
+68,01/01/2018,,L,wtennis
+69,01/01/2018,,L,wtennis
+70,01/01/2018,,L,wtennis
+71,01/01/2018,,L,wtennis
+72,01/01/2018,,L,wtennis
+73,01/01/2018,,L,wtennis
+74,01/01/2018,,L,wtennis
+75,01/01/2018,,L,wtennis
+76,01/01/2018,,L,wtennis
+77,01/01/2018,,L,wtennis
+78,01/01/2018,,L,wtennis
+79,01/01/2018,,L,wtennis
+80,01/01/2017,,L,wtennis
+81,01/01/2017,,L,wtennis
+82,01/01/2017,,L,wtennis
+83,01/01/2017,,L,wtennis
+84,01/01/2017,,L,wtennis
+85,01/01/2017,,L,wtennis
+86,01/01/2017,,L,wtennis
+87,01/01/2017,,L,wtennis
+88,01/01/2017,,L,wtennis
+89,01/01/2017,,L,wtennis
+90,01/01/2017,,L,wtennis
+91,01/01/2017,,L,wtennis
+92,01/01/2016,,W,wtennis
+93,01/01/2016,,L,wtennis
+94,01/01/2016,,L,wtennis
+95,01/01/2016,,L,wtennis
+96,01/01/2016,,L,wtennis
+97,01/01/2016,,L,wtennis
+98,01/01/2016,,L,wtennis
+99,01/01/2016,,L,wtennis
+100,01/01/2016,,L,wtennis
+101,01/01/2016,,L,wtennis
+102,01/01/2016,,L,wtennis
+103,01/01/2016,,L,wtennis
+104,01/01/2016,,L,wtennis
+105,01/01/2015,,W,wtennis
+106,01/01/2015,,W,wtennis
+107,01/01/2015,,L,wtennis
+108,01/01/2015,,L,wtennis
+109,01/01/2015,,L,wtennis
+110,01/01/2015,,L,wtennis
+111,01/01/2015,,L,wtennis
+112,01/01/2015,,L,wtennis
+113,01/01/2015,,L,wtennis
+114,01/01/2015,,L,wtennis
+115,01/01/2015,,L,wtennis
+116,01/01/2015,,L,wtennis
+117,01/01/2015,,L,wtennis
+118,01/01/2015,,L,wtennis
+119,01/01/2014,,W,wtennis
+120,01/01/2014,,W,wtennis
+121,01/01/2014,,W,wtennis
+122,01/01/2014,,W,wtennis
+123,01/01/2014,,W,wtennis
+124,01/01/2014,,W,wtennis
+125,01/01/2014,,W,wtennis
+126,01/01/2014,,L,wtennis
+127,01/01/2014,,L,wtennis
+128,01/01/2014,,L,wtennis
+129,01/01/2014,,L,wtennis
+130,01/01/2014,,L,wtennis
+131,01/01/2014,,L,wtennis
+132,01/01/2014,,L,wtennis
+133,01/01/2014,,L,wtennis
+134,01/01/2013,,W,wtennis
+135,01/01/2013,,W,wtennis
+136,01/01/2013,,W,wtennis
+137,01/01/2013,,W,wtennis
+138,01/01/2013,,W,wtennis
+139,01/01/2013,,W,wtennis
+140,01/01/2013,,W,wtennis
+141,01/01/2013,,W,wtennis
+142,01/01/2013,,L,wtennis
+143,01/01/2013,,L,wtennis
+144,01/01/2013,,L,wtennis
+145,01/01/2013,,L,wtennis
+146,01/01/2013,,L,wtennis
+147,01/01/2013,,L,wtennis
+148,01/01/2013,,L,wtennis
+149,01/01/2012,,W,wtennis
+150,01/01/2012,,W,wtennis
+151,01/01/2012,,W,wtennis
+152,01/01/2012,,W,wtennis
+153,01/01/2012,,W,wtennis
+154,01/01/2012,,L,wtennis
+155,01/01/2012,,L,wtennis
+156,01/01/2012,,L,wtennis
+157,01/01/2012,,L,wtennis
+158,01/01/2012,,L,wtennis
+159,01/01/2012,,L,wtennis
+160,01/01/2012,,L,wtennis
+161,01/01/2012,,L,wtennis
+162,01/01/2012,,L,wtennis
+163,01/01/2012,,L,wtennis
+164,01/01/2012,,L,wtennis
+165,01/01/2012,,L,wtennis
+0,01/01/2024,,W,wwrestling
+1,01/01/2024,,W,wwrestling
+2,01/01/2024,,W,wwrestling
+3,01/01/2024,,W,wwrestling
+4,01/01/2024,,L,wwrestling
+5,01/01/2024,,L,wwrestling
+6,01/01/2024,,L,wwrestling
+7,01/01/2024,,L,wwrestling
+8,01/01/2024,,L,wwrestling
+9,01/01/2024,,L,wwrestling
+10,01/01/2024,,L,wwrestling
+11,01/01/2024,,L,wwrestling
